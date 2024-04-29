@@ -1,6 +1,6 @@
 # Secure Message App
 
-GSecure Message App allows for secure messaging by sending encrypted messages that can only be read once by the recipient before they are automatically deleted. Messages also have a set expiration time, increasing the privacy of the communication.
+Secure Message App allows for secure messaging by sending encrypted messages that can only be read once by the recipient before they are automatically deleted. Messages also have a set expiration time, increasing the privacy of the communication.
 
 ## Table of Contents
 - [About](#about)
