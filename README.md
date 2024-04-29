@@ -27,7 +27,7 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repo
    
-   git clone https://github.com/waheedup74/gaming-dashboard-vue.git
+   git clone https://github.com/waheedup74/message-app.git
    
 2. Install dependencies
    
