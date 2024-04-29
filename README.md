@@ -13,7 +13,7 @@ Secure Message App allows for secure messaging by sending encrypted messages tha
 
 ## About
 
-The GSecure Message App is designed to enhance secure communication through encryption and self-destructive messages. It's built using PHP and utilizes Composer for dependency management.
+The Secure Message App is designed to enhance secure communication through encryption and self-destructive messages. It's built using PHP and utilizes Composer for dependency management.
 
 ## Getting Started
 
